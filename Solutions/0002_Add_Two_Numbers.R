@@ -17,5 +17,4 @@ addtwonumber <- function(a,b) {
   return(c)
 }
 
-
 addtwonumber(c(8, 5, 3), c(5, 6, 4))
